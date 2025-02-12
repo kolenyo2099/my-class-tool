@@ -1,0 +1,12 @@
+specVersion: "v1beta"
+serviceId: "my-class-tool"
+location: "europe-west1"
+schema:
+  source: "./schema"
+  datasource:
+    postgresql:
+      database: "my-class-tool"
+      cloudSql:
+        instanceId: "my-class-tool"
+      # schemaValidation: "COMPATIBLE"
+connectorDirs: ["./connector"]

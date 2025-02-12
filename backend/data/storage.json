@@ -1,0 +1,132 @@
+{
+  "tasks": [
+    {
+      "id": "1739174762621",
+      "title": "Geolocating a video",
+      "description": "<p>You may use the following clues:<br>The youtuber is from Russia</p>",
+      "goal": "Finding the place where a video was taken.",
+      "learningObjectives": [],
+      "media": [
+        {
+          "type": "video",
+          "url": "https://www.youtube.com/watch?v=7DXWXPghjY8&t=2s&ab_channel=Natasha%27sAdventures",
+          "isLocal": false
+        }
+      ],
+      "createdAt": "2025-02-10T08:06:02.622Z",
+      "updatedAt": "2025-02-10T14:18:24.686Z",
+      "subtasks": [
+        {
+          "id": "subtask-1739197104642-abqijycwp",
+          "title": "A subtask test",
+          "description": "<p>just a test</p>",
+          "goal": "Geolocating the photo",
+          "media": [
+            {
+              "type": "image",
+              "url": "/uploads/1739197103009-771319457.png",
+              "isLocal": true
+            }
+          ],
+          "subtasks": [],
+          "completed": false,
+          "learningObjectives": [],
+          "createdAt": "2025-02-10T14:18:24.642Z",
+          "updatedAt": "2025-02-10T14:18:24.642Z",
+          "isExpanded": true
+        }
+      ],
+      "completed": false
+    }
+  ],
+  "feedbackHistory": [
+    {
+      "id": "1739024493232",
+      "taskId": "1739024281239",
+      "userResponse": "we just reverse image search the image",
+      "feedback": "1. Goal Alignment Analysis:\nThe student's response partially aligns with the task's goal. While reverse image searching can be a valid method to verify the content of an image, it is essential to consider the broader context and historical background of the topic. The response lacks depth in terms of researching the background of the topic or understanding the timeline of events, which are crucial aspects of debunking or verifying historical images.\n\n2. Knowledge Integration:\nIn this case, the student should incorporate the knowledge base's suggestion to research the background of the topic, understand the timeline of events, check for previous related statements, and consider the broader context when verifying historical images. By integrating these concepts, the student can enhance their approach to image verification and provide more comprehensive and accurate results.\n\n3. Feedback Formulation:\nPositive aspects: The student demonstrated an awareness of using reverse image search for verification, which is a good starting point.\nSuggestions for improvement: To align better with the task's goal, I recommend expanding the verification process by researching the background of the topic, understanding the timeline of events, checking for related statements, and considering the broader context. Additionally, it would be beneficial to analyze the content of the image itself and cross-reference it with reliable sources to ensure accuracy in the verification process. By following these steps, the student can strengthen their approach to debunking or verifying historical images effectively.",
+      "createdAt": "2025-02-08T14:21:33.232Z",
+      "updatedAt": "2025-02-08T14:21:33.232Z"
+    },
+    {
+      "id": "1739024528897",
+      "taskId": "1739024281239",
+      "userResponse": "we also ask people in our surroundings if they have seen the image",
+      "feedback": "1. Goal Alignment Analysis:\nThe student's response partially aligns with the task's goal. Asking people in their surroundings about the image can be helpful in verifying its authenticity by gathering additional perspectives. However, this approach may not always guarantee accurate information, as people's observations can be subjective and may not be reliable sources for verifying images.\n\n2. Knowledge Integration:\nIn the context of verifying image authenticity, it's important to rely on more concrete methods rather than subjective opinions. Techniques like reverse image search, metadata analysis, and fact-checking websites are more reliable ways to debunk or verify an image. While input from people around can be considered as one of the steps, it should not be the sole method for image verification.\n\n3. Feedback Formulation:\n- Positive: It's good that you are considering different sources of information to verify the image.\n- Improvement: To enhance the accuracy of image verification, consider utilizing more objective methods like reverse image search or metadata analysis. These techniques provide more concrete evidence about the image's authenticity. Additionally, encourage the use of fact-checking websites to cross-verify information.\n- Actionable Steps: Try incorporating online tools like reverse image search engines (e.g., Google Images) to verify images. Encourage critical thinking by cross-referencing information obtained from people with more reliable sources.\n- Reference: Refer to the knowledge base provided on image verification techniques for more effective ways to debunk or verify images.",
+      "createdAt": "2025-02-08T14:22:08.897Z",
+      "updatedAt": "2025-02-08T14:22:08.897Z"
+    },
+    {
+      "id": "1739024557127",
+      "taskId": "1739024281239",
+      "userResponse": "we ask our granpas",
+      "feedback": "### Feedback:\n\n**Goal Alignment Analysis:**\nThe response provided, \"we ask our granpas,\" does not directly align with the task's goal of verifying public statements. While seeking information from elders or grandparents can sometimes be helpful, it may not always lead to accurate or verifiable information in the context of fact-checking public statements.\n\n**Knowledge Integration:**\nIn this case, it is important to emphasize the need for reliable and verifiable sources when fact-checking public statements. While personal anecdotes or advice from elders can be valuable in many situations, fact-checking requires more rigorous methods like finding original sources, checking contexts, dates, and locations.\n\n**Suggestions for Improvement:**\n1. **Positive:** It's good to seek advice and guidance from elders for various matters.\n2. **Improvement:** When fact-checking public statements, it's crucial to rely on verifiable sources like original quotes, context, and reliable information.\n3. **Actionable Steps:** Encourage using fact-checking websites, official records, or news sources to verify public statements. Practice discerning reliable sources from potentially biased or inaccurate ones.\n\nBy focusing on reliable sources and verifiable information, you can ensure a more accurate and thorough approach to fact-checking public statements. Keep practicing and refining your fact-checking skills to become more adept at distinguishing between accurate and misleading information.",
+      "createdAt": "2025-02-08T14:22:37.127Z",
+      "updatedAt": "2025-02-08T14:22:37.127Z"
+    },
+    {
+      "id": "1739028548064",
+      "taskId": "1739028404533",
+      "userResponse": "we download a chrome extension called weverify invid",
+      "feedback": "**Goal Alignment Analysis:**\nThe student's response partially aligns with the task's goal. They mentioned downloading a Chrome extension called \"weverify invid,\" which indicates an attempt to verify public statements. However, the response lacks details about how this extension specifically helps in fact-checking statements attributed to public figures, as outlined in the task.\n\n**Knowledge Integration:**\nThe student correctly identified the need for a tool (Chrome extension) to assist in fact-checking public statements. To strengthen the response, they could benefit from understanding the importance of verifying the original source, context, date, and location of the statement, as mentioned in the provided knowledge base. This additional information would enhance their fact-checking process.\n\n**Feedback Formulation:**\n1. **Positive Aspects:**\n   - Acknowledge the initiative to use a Chrome extension for fact-checking.\n\n2. **Suggestions for Improvement:**\n   - Clarify how the \"weverify invid\" Chrome extension helps in verifying public statements.\n   - Emphasize the importance of checking the original source, context, date, and location of the statement to ensure accuracy.\n   - Encourage exploring additional fact-checking steps outlined in the provided knowledge base to enhance the verification process.\n\n3. **Actionable Steps:**\n   - Research and provide specific details on how the \"weverify invid\" extension supports fact-checking tasks.\n   - Include steps to verify the original source, context, date, and location of statements when using the extension.\n   - Practice integrating the suggested fact-checking steps from the knowledge base into the response for a more comprehensive verification process.\n\nBy incorporating these suggestions and deepening their understanding of fact-checking strategies, the student can further align their response with the goal of verifying public statements accurately.",
+      "createdAt": "2025-02-08T15:29:08.064Z",
+      "updatedAt": "2025-02-08T15:29:08.064Z"
+    },
+    {
+      "id": "1739032246870",
+      "taskId": "1739032221376",
+      "userResponse": "install a chrome extension to analyse the video?\n",
+      "feedback": "1. Goal Alignment Analysis:\n   - The response does not align with the task's goal of learning to use invid-weverify to analyze videos. It suggests installing a chrome extension, which is not related to the specific tool mentioned in the task.\n   - The response falls short of the goal by not addressing the steps for verifying public statements using invid-weverify.\n\n2. Knowledge Integration:\n   - The provided knowledge base emphasizes steps for fact-checking public statements, focusing on source verification and context checking.\n   - To improve the response, the student could mention using invid-weverify to analyze the video's content, identify any manipulations or misinformation, and verify the authenticity of the source.\n\n3. Feedback Formulation:\n   - Positive: It's good that you are thinking about using tools to analyze videos for fact-checking purposes.\n   - Improvement: Instead of focusing on installing a chrome extension, try to explore how invid-weverify can help verify public statements by analyzing videos for context, source authenticity, and manipulations.\n   - Actionable Steps: Research how invid-weverify works and practice using it to analyze videos according to the provided steps for fact-checking public statements.\n   - Reference: Remember to verify the original source of the video, check for any potential editing or manipulation, and confirm the date and location of the content using invid-weverify.",
+      "createdAt": "2025-02-08T16:30:46.870Z",
+      "updatedAt": "2025-02-08T16:30:46.870Z"
+    },
+    {
+      "id": "1739035793937",
+      "taskId": "1739027593661",
+      "userResponse": "we just do google image reverse search",
+      "feedback": "1. Goal Alignment Analysis:\nThe student's response aligns with the task's goal of verifying or debunking the image by suggesting the use of Google image reverse search. This approach can help in identifying the original source of the image and potentially verify its authenticity. However, the response lacks depth in explaining how to analyze the search results or what to look for during the verification process.\n\n2. Knowledge Integration:\nUtilizing Google image reverse search is indeed a valid method to verify images by checking for similar or identical images online. To enhance the response, the student could mention the importance of comparing information from reliable sources to confirm the accuracy of the image. Understanding the historical context and potential manipulation of images in historical events can also aid in verifying or debunking the image effectively.\n\n3. Feedback Formulation:\nPositive Aspects:\n- The student correctly identified a practical method, Google image reverse search, for verifying images.\nSuggestions for Improvement:\n- To improve the response, consider explaining the process of analyzing search results and cross-referencing information from reliable sources.\n- Include the significance of understanding the historical context and potential image manipulation in historical events for a comprehensive verification process.\n- Provide actionable steps such as comparing details in the image with historical facts or consulting expert sources to ensure the accuracy of the image in question.\nBy incorporating these suggestions and emphasizing a more thorough verification process, you can enhance the effectiveness of your image verification approach.",
+      "createdAt": "2025-02-08T17:29:53.937Z",
+      "updatedAt": "2025-02-08T17:29:53.937Z"
+    },
+    {
+      "id": "1739035917842",
+      "taskId": "1739027593661",
+      "userResponse": "or we upload it to yandex",
+      "feedback": "**Goal Alignment Analysis:**\nThe student's response does not align well with the task's goal. The task is about verifying or debunking public statements attributed to a public figure, but the student's response of \"or we upload it to yandex\" does not directly address this process. The mention of uploading to Yandex seems unrelated to the fact-checking steps outlined in the provided knowledge base.\n\n**Knowledge Integration:**\nIn the context of fact-checking public statements, it is important to focus on verifying the original source, checking the full context of the statement, and confirming the date and location of the statement. Using search engines like Yandex may help in finding information, but the response should have been more specific to the fact-checking process outlined in the guide.\n\n**Feedback Formulation:**\n1. Positive: It's good that you mentioned using a search engine like Yandex to potentially find information.\n2. Improvement Suggestions: To better align with the goal, focus on steps like finding the original source, checking the context, and verifying the details mentioned in the statement.\n3. Actionable Steps: Try to apply the fact-checking steps provided in the guide, such as verifying the source, context, date, and location of the statement. Avoid unrelated mentions like uploading to a search engine unless it directly supports the fact-checking process.\n4. Reference: Remember to follow the fact-checking steps outlined in the knowledge base to effectively verify or debunk public statements.",
+      "createdAt": "2025-02-08T17:31:57.842Z",
+      "updatedAt": "2025-02-08T17:31:57.842Z"
+    },
+    {
+      "id": "1739048195473",
+      "taskId": "1739027593661",
+      "userResponse": "or we upload it to yandex",
+      "feedback": "### Feedback:\n\n**Goal Alignment Analysis:**\nThe student's response does not align well with the task's goal of verifying or debunking an image. The mention of uploading something to Yandex does not directly address the steps needed to fact-check a public statement or image.\n\n**Knowledge Integration:**\nIn this context, fact-checking involves finding the original source, checking the full context, and verifying details like date and location. It does not involve uploading to Yandex. To improve, focus on steps related to verifying public statements or images.\n\n**Feedback:**\n- **Positive:** It's good that you are thinking about using online tools for verification.\n- **Improvement:** To better align with the task, focus on steps like finding the original source, checking context, and verifying details like date and location.\n- **Actionable Steps:** Try to find the original source of the image or statement, check for the full context, and verify relevant details to determine its accuracy.\n- **Reference:** Remember the steps outlined in the fact-checking guide to effectively verify public statements or images.",
+      "createdAt": "2025-02-08T20:56:35.473Z",
+      "updatedAt": "2025-02-08T20:56:35.473Z"
+    },
+    {
+      "id": "1739048216665",
+      "taskId": "1739028404533",
+      "userResponse": "we cut the video in pieces",
+      "feedback": "1. **Goal Alignment Analysis**:\n   - The student response partially aligns with the task's goal. While cutting the video into pieces could potentially help in analyzing specific segments, it doesn't directly address the task of verifying the video through reputable news sources, comparing different media outlets' reporting, and noting corrections or retractions.\n    \n2. **Knowledge Integration**:\n   - The student's approach of cutting the video into pieces may be useful for detailed analysis of specific parts of the video content but may not directly contribute to verifying the video through media coverage analysis.\n   - In this case, it would be more beneficial to focus on finding reputable news sources, looking for video or audio recordings related to the content being analyzed, and comparing how different media outlets report on the same event or topic.\n  \n3. **Feedback Formulation**:\n   - Positive: It's good that you are thinking about breaking down the video content for analysis. It shows a detailed approach to understanding the material.\n   - Improvement Suggestions: To align better with the task's goal, consider focusing on finding reputable news sources that discuss the video content, looking for video or audio recordings related to the topic, comparing different media outlets' reporting on the video, and noting any corrections or retractions made by these sources. This approach will help ensure a comprehensive analysis based on media coverage.\n   - Actionable Steps: Start by researching reputable news sources that have covered the video content. Look for video or audio recordings related to the topic to gather more information. Compare how different media outlets report on the video to gain a broader perspective. Finally, make note of any corrections or retractions issued by these sources to ensure accuracy in the analysis.\n   - Reference: Remember to refer back to the task's goal of verifying the video through media coverage analysis, as outlined in the provided knowledge base. This will help you stay focused on the key objectives of the task.",
+      "createdAt": "2025-02-08T20:56:56.665Z",
+      "updatedAt": "2025-02-08T20:56:56.665Z"
+    },
+    {
+      "id": "1739048950261",
+      "taskId": "1739027593661",
+      "userResponse": "just have faith maybe?",
+      "feedback": "**Goal Alignment Analysis:**\nThe student's response, \"just have faith maybe?\" does not align well with the task's goal of verifying or debunking an image. The response does not address the content or context of the image at all, which is essential for fact-checking.\n\n**Knowledge Integration:**\nIn this case, the student did not integrate any relevant concepts from the fact-checking guide provided. To improve, the student should focus on analyzing the image, checking its source, context, and any relevant details to determine its accuracy.\n\n**Feedback Formulation:**\n1. Positive aspects: It's good that the student attempted to contribute to the discussion, showing engagement.\n   \n2. Suggestions for improvement:\n   - The student should focus on analyzing the image itself and providing specific details related to the content or context.\n   - Encourage the student to research the image, find its original source, and verify any relevant information to determine its accuracy.\n   - Suggest looking for specific details in the image that can be cross-referenced to verify its validity.\n\nBy incorporating these suggestions, the student can better align their response with the task's goal of verifying or debunking the image based on factual information.",
+      "createdAt": "2025-02-08T21:09:10.261Z",
+      "updatedAt": "2025-02-08T21:09:10.261Z"
+    },
+    {
+      "id": "1739197120731",
+      "taskId": "1739174762621",
+      "userResponse": "we use google earth pro",
+      "feedback": "**1. Goal Alignment Analysis:**\nThe student's response partially aligns with the task's goal. While Google Earth Pro can be used to explore locations and view satellite imagery, the task specifically focuses on finding the place where a video was taken. Using Google Earth Pro may help in some cases, but the primary method suggested in the knowledge base is the reverse image search using tools like Google Images or TinEye. Therefore, the response falls short of fully meeting the task's goal.\n\n**2. Knowledge Integration:**\nIn this context, Google Earth Pro may not directly help in finding the exact location where a video was taken unless the video contains identifiable landmarks that can be matched with satellite imagery. Utilizing reverse image search tools, as mentioned in the knowledge base, can provide a more direct and effective approach to locating the place where a video was captured. Encouraging the student to explore different versions or modifications of the video's frames through reverse image search could lead to more accurate results.\n\n**3. Feedback Formulation:**\nPositive Aspects:\n- Using Google Earth Pro shows initiative in exploring location-related tools.\n\nSuggestions for Improvement:\n1. Consider incorporating reverse image search tools like Google Images or TinEye as suggested in the knowledge base for a more direct approach to finding the location of the video.\n2. Try to extract key frames from the video and conduct a reverse image search on those frames to pinpoint the location more accurately.\n3. Experiment with different methods, including reverse image search, to enhance the chances of successfully identifying the place where the video was taken.\n\nBy integrating reverse image search techniques alongside tools like Google Earth Pro, you can improve the precision and efficiency of determining the video's location. This approach aligns more closely with the task's goal and utilizes a broader range of resources for successful results.",
+      "createdAt": "2025-02-10T14:18:40.731Z",
+      "updatedAt": "2025-02-10T14:18:40.731Z"
+    }
+  ]
+}
